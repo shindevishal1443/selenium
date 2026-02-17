@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-17T14:11:26 IST" name="AutomationSuite" finished-at="2026-02-17T14:12:09 IST" duration-ms="42886">
+    <groups>
+    </groups>
+    <test started-at="2026-02-17T14:11:26 IST" name="LoginTest" finished-at="2026-02-17T14:12:09 IST" duration-ms="42886">
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginTest@131ef10]" started-at="2026-02-17T14:11:27 IST" name="setUp" finished-at="2026-02-17T14:12:03 IST" duration-ms="36630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestCase1()[pri:0, instance:Tests.LoginTest@131ef10]" started-at="2026-02-17T14:12:03 IST" name="TestCase1" finished-at="2026-02-17T14:12:09 IST" duration-ms="5854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
